@@ -1,0 +1,37 @@
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\bin\Debug\interMEDIAPacs Tools.exe
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\bin\Debug\interMEDIAPacs Tools.pdb
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.AnaFrom.resources
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Properties.Resources.resources
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.exe
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.pdb
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\bin\Debug\interMEDIAPacs Tools.exe.config
+\\Mac\Home\Desktop\Pacs\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Form2.resources
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.AnaFrom.resources
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Form2.resources
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Properties.Resources.resources
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.csproj.GenerateResource.cache
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.csproj.CoreCompileInputs.cache
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.exe
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.pdb
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\bin\Debug\interMEDIAPacs Tools.exe.config
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\bin\Debug\interMEDIAPacs Tools.exe
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\bin\Debug\interMEDIAPacs Tools.pdb
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Form3.resources
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.csprojAssemblyReference.cache
+C:\Users\Sosyal Medya\Downloads\interMEDIAPacs Tools\interMEDIAPacs Tools\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Form4.resources
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\bin\Debug\interMEDIAPacs Tools.exe.config
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\bin\Debug\interMEDIAPacs Tools.exe
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\bin\Debug\interMEDIAPacs Tools.pdb
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.AnaFrom.resources
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Form2.resources
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Form3.resources
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Form4.resources
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs_Tools.Properties.Resources.resources
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.exe
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.pdb
+\\Mac\Home\Desktop\rr\test\interMEDIAPacs Tools\obj\Debug\interMEDIAPacs Tools.csprojAssemblyReference.cache

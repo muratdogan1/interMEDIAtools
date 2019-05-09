@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ayarlar>
+  <bilgiler>
+    <domain>teletip.cankayatip.com</domain>
+    <port>35005</port>
+    <dizin>C:\interMEDIA\Teletip\Kos\</dizin>
+  </bilgiler>
+  <sunucu>
+    <ip>MTkyLjE2OC4yLjI2</ip>
+    <database>SW1hZ2VTZXJ2ZXI=</database>
+    <kullanici>cGFjcw==</kullanici>
+    <sifre>cGFjcw==</sifre>
+  </sunucu>
+</ayarlar>
